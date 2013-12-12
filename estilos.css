@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: #fff;
+	font-family: sans-serif;
+	font-size: 16px;
+	text-align: center;
+}
+
+#cabecera {
+	background-color: #999;
+	height: 200px;
+	width: 960px;
+}
+
+#contenedor {
+	margin: 0 auto;
+	position: relative;
+	text-align: left;
+	width: 960px;
+}
+
+#contenido {
+	background-color: #666;
+	min-height: 500px;
+	padding: 20px;
+	width: 920px;
+}
+
+#pie {
+	background-color: #333;
+	height: 100px;
+	width: 960px;
+}
