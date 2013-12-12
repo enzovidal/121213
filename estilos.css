@@ -30,6 +30,31 @@ body {
 	width: 920px;
 }
 
+.nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+.nav ul li {
+	list-style: none;
+}
+
+.nav ul li a{
+	background-color: #000;
+	color: #fff;
+	display: block;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+
+.nav ul li a:hover{
+	background-color: #666;
+}
+
+.nav ul > li {
+	float: left;
+}
+
 #pie {
 	background-color: #333;
 	height: 100px;
