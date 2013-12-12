@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
 		<div id="contenido">
-			<h1>Bienvenidos!</h1>
+			<h1>Contacto</h1>
 		</div>
 <?php include('footer.php'); ?>
